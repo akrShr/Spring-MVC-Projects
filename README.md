@@ -1,11 +1,11 @@
 # Spring-MVC-Projects
 
+Customer Relationship Management :- To Track customers
+
 Spring MVC and Hibernate mySQL App
 
 Software Version:- Spring 5
 		   Hibernate 5
-
-Customer Relationship Management :- To Track customers
 
 We can do major CRUD operations needed to do with Spring MVC and Hibernate project
 
@@ -40,12 +40,12 @@ Note: All calls are preceded by /customer
 /deleteCustomer -> Get request : to delete a Customer record.
 
 
-#################################################################################################################################
+################################################################################
 
-
-Spring MVC with Spring MVC form validations
 
 Student Admission Management
+
+Spring MVC with Spring MVC form validations
 
 Software Version:- Spring 5
 		   Hibernate 5
